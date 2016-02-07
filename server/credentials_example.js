@@ -1,0 +1,7 @@
+var cn = {
+  host: 'localhost',
+  port: 5432,
+  database: '',
+  user: '',
+  password: ''
+};
